@@ -11,8 +11,8 @@ Real world analysis of Youtube data across 10 countries including the US
 Explore sample Youtube datasets from across 10 countries and perform the following anaysis to generate insights that answer a given set of goals
 - Analysis types:
   - Sentiment Analysis
-  - Perform Wordcloud Analysis
-  - Perform Emoji Analysis
+  - Wordcloud Analysis
+  - Emoji Analysis
 - Project goals
   - Analyze most liked categories on Youtube
   - Analyze audience engagement
