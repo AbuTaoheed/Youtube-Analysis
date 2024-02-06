@@ -18,9 +18,9 @@ Real world analysis of Youtube data across 10 countries including the United Sta
 ## Project Overview
 Explore sample Youtube datasets from across 10 countries and perform the following anaysis to generate insights that answer a given set of goals
 - Analysis types:
-  - Sentiment Analysis
-  - Wordcloud Analysis
-  - Emoji Analysis
+  - Perform Sentiment Analysis
+  - Perform Wordcloud Analysis
+  - Perform Emoji Analysis
 - Project goals
   - Analyze most liked categories on Youtube
   - Analyze audience engagement
@@ -41,8 +41,7 @@ Project Datasets [Download here.](https://drive.google.com/drive/folders/1makDwg
   - Data Analysis
   - Data visualization
 - Special Packages used
-  - Sentiment.polarity
-  - Textblob
+  - Textblob(Sentiment.polarity)
   - Wordcloud
   - String.punctuations
   - Emoji
@@ -90,12 +89,15 @@ plt.axis('off')
 ```
 
 ## Results and Findings
-1. What type of sentiments are expressed in comments? (using sentiment polarity analysis)
-2. What are he most used words by users in video comments? (using wordcloud analysis)
-3. What emoji's did users use most in their comments? (using emoji analysis)
-4. Which content categories has the most likes?
-5. Are audience engaged? (using regression and heatmap to find correlation between views and likes)
-6. Which channels have the most trending videos? (using simple frequency and groupby techniques)
+1. Sentiments expressed in comments?
+   - 10% of comments expressed positive sentiments whike 3% expressed negative comments. Over 85% of the comments were neutral.
+2. Most important words used in comments?
+   - Words like 'Best', 'Awesome' and 'Great' were most positive words used while words such as 'Terrible', 'Worst' and 'Boring' were the most negative words used in the comments
+3. Emoji most used in the comments?
+   - 
+5. Which content categories has the most likes?
+6. Are audience engaged? (using regression and heatmap to find correlation between views and likes)
+7. Which channels have the most trending videos? (using simple frequency and groupby techniques)
    - Conclusion:
      - The top 5 channels with trending videos
        
