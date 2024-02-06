@@ -55,7 +55,7 @@ In the data cleaning and preparation phase, the following tasks were performed:
 ## Exploratory Analysis 
 EDA involved exploration to answer and reveal the following:
 1. What type of sentiments are expressed in comments? (using sentiment polarity analysis)
-2. What are he most used words by users in video comments? (using wordcloud analysis)
+2. What are the most used words by users in video comments? (using wordcloud analysis)
 3. What emoji's did users use most in their comments? (using emoji analysis)
 4. Which content categories has the most likes?
 5. Are audience engaged? (using regression and heatmap to find correlation between views and likes)
