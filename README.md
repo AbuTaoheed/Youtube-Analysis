@@ -94,7 +94,7 @@ plt.axis('off')
 |TheEllenShow|555|
 |Jimmy Kimmel Live|528|
 
-8. Does number of puctuations in video titles have impact on views?
+7. Does number of puctuations in video titles have impact on views?
    - Conclusion:
      - Likes are higher for titles with 2, 3 and 5 punctuation marks
      - Views are higher for titles with 2 or 3 punctuation marks
