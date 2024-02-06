@@ -1,4 +1,4 @@
-# YouTube - Text Data Analysis Project
+# Text Data Analysis Project
 Real world analysis of YouTube sample data across 10 countries including the United States (US).
 
 ### Table of Contents
@@ -115,7 +115,8 @@ plt.axis('off')
 
 ## Limitations
 - 7 lines were skipped during the data extratction process due to inconsistent number of columns
-- 26 null value were found and removed from the dataset of 691399 rows during data cleaning
+- 26 null value were found and removed from the dataset of 600k+ rows during data cleaning
+- 30k+ duplicate values were found and dropped from the dataset
 
 ## References 
 1. Internet references
