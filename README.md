@@ -40,7 +40,7 @@ Project Datasets [Download here.](https://drive.google.com/drive/folders/1makDwg
   - Data cleaning
   - Data Analysis
   - Data visualization
-- Special Packages 
+- Special Packages used
   - Sentiment.polarity
   - Textblob
   - Wordcloud
