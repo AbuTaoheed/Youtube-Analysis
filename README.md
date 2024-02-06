@@ -17,6 +17,13 @@ Explore sample Youtube datasets from across  10 countries and perform the follow
   - Analyze channels with most trending videos
   - Analyze the effect of puctuations in video titles on views
 
+![wordcloud_likes](https://github.com/AbuTaoheed/Youtube-Analysis/assets/159118239/2dc5445f-de88-43db-9fd6-7de2807f207b)
+![punctuation_count_and_views](https://github.com/AbuTaoheed/Youtube-Analysis/assets/159118239/86829c5c-3477-474b-8d97-a6884a4d4fe7)
+![highest_trending](https://github.com/AbuTaoheed/Youtube-Analysis/assets/159118239/08250587-f406-4aee-96d9-5e94dd12a5af)
+![emoji_analysis](https://github.com/AbuTaoheed/Youtube-Analysis/assets/159118239/327ecca8-9425-4bae-b5cc-3bccccb045ff)
+![category_most_liked](https://github.com/AbuTaoheed/Youtube-Analysis/assets/159118239/740cb08e-9531-4ce7-acb0-bc2af162c911)
+![audience_engagement](https://github.com/AbuTaoheed/Youtube-Analysis/assets/159118239/ca8dbc58-c163-4cac-bcd8-0e2b434d6d80)
+
 ## Data Source
 Youtube Data [Download here.](www.link.com)
 
