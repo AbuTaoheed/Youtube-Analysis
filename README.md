@@ -1,6 +1,6 @@
 # Youtube-Analysis-Project
 Youtube - 2nd most visited site in the world
-Real world analysis of Youtube data across 10 countries including the US
+Real world analysis of Youtube data across 10 countries including the United States (US).
 
 ### Table of Contents
 - [Project Overview](#project-overview)
@@ -51,7 +51,7 @@ Project Datasets [Download here.](https://drive.google.com/drive/folders/1makDwg
 In the data cleaning and preparation phase, the following tasks were performed:
 1. Data loading and inspection
 2. Handling missing values and duplicates
-3. Data cleaning and formating 
+3. Data formating and transformation
 
 ## Exploratory Analysis 
 EDA involved exploration to answer and reveal the following:
