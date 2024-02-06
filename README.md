@@ -95,12 +95,10 @@ plt.axis('off')
    - Words like 'Best', 'Awesome' and 'Great' were most positive words used while words such as 'Terrible', 'Worst' and 'Boring' were the most negative words used in the comments
 3. Emoji most used in the comments.
    - The following emojis were the top 3 used in comments 🤣 😆 😄
-4. Content categories with the most likes.
+4. Content categories with the most likes and engagement.
    - The Music and Entertainment categories had the most likes followed by Sports and People\Lifestyle categories. The Trailers and Movies category had the least likes.
-5. Are audience engaged? (using regression and heatmap to find correlation between views and likes)
-7. Which channels have the most trending videos? (using simple frequency and groupby techniques)
-   - Conclusion:
-     - The top 5 channels with trending videos
+5. Channels having the most trending videos.
+   - The top 5 channels with most trending videos are as follows:
        
 |Channel|No. Trending videos|
 |-------|-------------------|
@@ -110,10 +108,8 @@ plt.axis('off')
 |TheEllenShow|555|
 |Jimmy Kimmel Live|528|
 
-7. Does number of puctuations in video titles have impact on views?
-   - Conclusion:
-     - Likes are higher for titles with 2, 3 and 5 punctuation marks
-     - Views are higher for titles with 2 or 3 punctuation marks
+6. Impact of number of puctuations in video title.
+   - Likes and views are higher for titles with 2, 3 and 5 punctuation marks.
 
 ## Recommendations
 
