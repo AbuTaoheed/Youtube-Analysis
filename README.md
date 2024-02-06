@@ -64,5 +64,28 @@ plt.axis('off')
 ```
 
 ## Results/Findings
+1. What type of sentiments are expressed in comments? (using sentiment polarity analysis)
+2. What are he most used words by users in video comments? (using wordcloud analysis)
+3. What emoji's did users use most in their comments? (using emoji analysis)
+4. Which content categories has the most likes?
+5. Are audience engaged? (using regression and heatmap to find correlation between views and likes)
+   - 
+7. Which channels have the most trending videos? (using simple frequency and groupby techniques)
+   - Conclusion:
+     - The top 5 channels with trending videos
+     - The Late Show with Stephen Colbert 989
+WWE 808
+Late Night with Seth Meyers 778
+VikatanTV 768
+TheEllenShow 747
+8. Does number of puctuations in video titles have impact on views?
+   - Conclusion:
+     - Likes are higher for titles with 2, 3 and 5 punctuation marks
+     - Views are higher for titles with 2 or 3 punctuation marks
 
+## Recommendations
+
+## Limitations
+7 lines were skipped during the data extratction process due to inconsistent number of columns
+26 null value were found and removed from the dataset of 691399 rows during data cleaning
 
