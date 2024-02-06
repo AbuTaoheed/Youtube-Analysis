@@ -16,13 +16,14 @@ Real world analysis of YouTube data across 10 countries including the United Sta
 - [References](#references)
 
 ## Project Overview
-Explore sample Youtube datasets from across 10 countries and perform the following anaysis to generate insights that answer a given set of goals
+Explore sample Youtube datasets from across 10 countries and perform the following Text Data anaysis to generate insights that answer a given set of goals
 - Analysis types:
   - Perform Sentiment Analysis
-  - Perform Wordcloud Analysis
+  - Perform Wordcloud representation of Sentiments
   - Perform Emoji Analysis
 - Project goals
-  - Analyze most liked categories on Youtube
+  - Analyze Trending Tags and Views of Youtube
+  - Analyze most liked categories of Youtube
   - Analyze audience engagement
   - Analyze channels with most trending videos
   - Analyze the effect of puctuations in video titles on views
