@@ -5,7 +5,11 @@ Real world analysis of Youtube data across 10 countries including the US
 ### Table of Contents
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Results and Findings](#results-and-findings)
+- [Exploratory Analysis](#exploratory-analysis)
+- [Data Analysis](#data-analysis)
 
 ## Project Overview
 Explore sample Youtube datasets from across 10 countries and perform the following anaysis to generate insights that answer a given set of goals
@@ -39,7 +43,7 @@ Project Datasets [Download here.](https://drive.google.com/drive/folders/1makDwg
   - String.punctuations
   - Emoji
 
-## Data Cleaning/Preparation
+## Data Cleaning and Preparation
 In the data cleaning and preparation phase, the following tasks were performed:
 1. Data loading and inspection
 2. Handling missing values and duplicates
