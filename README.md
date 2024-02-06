@@ -25,13 +25,19 @@ Explore sample Youtube datasets from across 10 countries and perform the followi
 ![punctuation_count_and_views](https://github.com/AbuTaoheed/Youtube-Analysis/assets/159118239/86829c5c-3477-474b-8d97-a6884a4d4fe7)
 
 ## Data Source
-Youtube Datasets [Download here.](https://drive.google.com/drive/folders/1makDwgfKzmqOSikEnOLkmMskT3609dAo?usp=share_link)
+Project Datasets [Download here.](https://drive.google.com/drive/folders/1makDwgfKzmqOSikEnOLkmMskT3609dAo?usp=share_link)
 
 ## Tools 
 - Python (Jupyter IDE)
   - Data cleaning
   - Data Analysis
   - Data visualization
+- Special Packages 
+  - Sentiment.polarity
+  - Textblob
+  - Wordcloud
+  - String.punctuations
+  - Emoji
 
 ## Data Cleaning/Preparation
 In the data cleaning and preparation phase, the following tasks were performed:
@@ -50,7 +56,7 @@ EDA involved exploration to answer and reveal the following:
 7. Does number of puctuations in video titles have impact on views? (using the string.punctuation package)
 
 ## Data Analysis
-1. What type of sentiments are expressed in comments?
+1. Analyzing sentiments expressed in comments?
 ```
 from textblob import TextBlob
 polarity = []
@@ -66,7 +72,7 @@ sample_df_pos_comments = sample_df[positivePol]
 sample_df_neg_comments = sample_df[negativePol]
 ```
 
-2. What are he most used words by users in video comments?
+2. Analyzing words most used by users in video comments?
 ```
 from wordcloud import WordCloud, STOPWORDS
 PositiveCommentsStr = ' '.join(sample_df_pos_comments['comment_text'])
@@ -81,8 +87,7 @@ plt.axis('off')
 3. What emoji's did users use most in their comments? (using emoji analysis)
 4. Which content categories has the most likes?
 5. Are audience engaged? (using regression and heatmap to find correlation between views and likes)
-   - 
-7. Which channels have the most trending videos? (using simple frequency and groupby techniques)
+6. Which channels have the most trending videos? (using simple frequency and groupby techniques)
    - Conclusion:
      - The top 5 channels with trending videos
        
