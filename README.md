@@ -28,9 +28,10 @@ Explore sample Youtube datasets from across 10 countries and perform the followi
 Youtube Datasets [Download here.](https://drive.google.com/drive/folders/1makDwgfKzmqOSikEnOLkmMskT3609dAo?usp=share_link)
 
 ## Tools 
-- Python (Jupyter IDE) - Data cleaning
-- SQL - Data Analysis
-- PowerBI - Creating Reports
+- Python (Jupyter IDE)
+  - Data cleaning
+  - Data Analysis
+  - Data visualization
 
 ## Data Cleaning/Preparation
 In the data cleaning and preparation phase, the following tasks were performed:
