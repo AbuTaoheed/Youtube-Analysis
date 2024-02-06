@@ -1,6 +1,10 @@
 # Youtube-Analysis-Project
 2nd most visited site in the world
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+
 ## Project Overview
 Explore sample Youtube datasets from across  10 countries and perform the following anaysis to generate insights that answer a given set of goals
 - Analysis
