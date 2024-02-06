@@ -1,6 +1,5 @@
-# YouTube-Analysis-Project
-YouTube - 2nd most visited site in the world
-Real world analysis of YouTube data across 10 countries including the United States (US).
+# YouTube - Text Data Analysis Project
+Real world analysis of YouTube sample data across 10 countries including the United States (US).
 
 ### Table of Contents
 - [Project Overview](#project-overview)
