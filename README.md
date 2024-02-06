@@ -4,6 +4,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
+- [Results and Findings](#results-and-findings)
 
 ## Project Overview
 Explore sample Youtube datasets from across  10 countries and perform the following anaysis to generate insights that answer a given set of goals
@@ -74,7 +75,7 @@ plt.imshow(PosWordCloud)
 plt.axis('off')
 ```
 
-## Results/Findings
+## Results and Findings
 1. What type of sentiments are expressed in comments? (using sentiment polarity analysis)
 2. What are he most used words by users in video comments? (using wordcloud analysis)
 3. What emoji's did users use most in their comments? (using emoji analysis)
@@ -84,11 +85,15 @@ plt.axis('off')
 7. Which channels have the most trending videos? (using simple frequency and groupby techniques)
    - Conclusion:
      - The top 5 channels with trending videos
-     - The Late Show with Stephen Colbert 989
-WWE 808
-Late Night with Seth Meyers 778
-VikatanTV 768
-TheEllenShow 747
+       
+|Channel|No. Trending videos|
+|-------|-------------------|
+|The Late Show with Stephen Colbert|710|
+|WWE|643|
+|Late Night with Seth Meyers|592|
+|TheEllenShow|555|
+|Jimmy Kimmel Live|528|
+
 8. Does number of puctuations in video titles have impact on views?
    - Conclusion:
      - Likes are higher for titles with 2, 3 and 5 punctuation marks
@@ -105,3 +110,4 @@ TheEllenShow 747
    - [Stack Overflow](somelink.com)
 2. Book reference
    - Real-life projects using python
+🍎
