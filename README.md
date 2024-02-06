@@ -86,6 +86,11 @@ TheEllenShow 747
 ## Recommendations
 
 ## Limitations
-7 lines were skipped during the data extratction process due to inconsistent number of columns
-26 null value were found and removed from the dataset of 691399 rows during data cleaning
+- 7 lines were skipped during the data extratction process due to inconsistent number of columns
+- 26 null value were found and removed from the dataset of 691399 rows during data cleaning
 
+## References 
+1. Internet references
+   - [Stack Overflow](somelink.com)
+2. Book reference
+   - Real-life projects using python
