@@ -110,4 +110,11 @@ plt.axis('off')
    - [Stack Overflow](somelink.com)
 2. Book reference
    - Real-life projects using python
+
 🍎
+
+:Emoji_name
+
+**Bold**
+
+*Italic*
