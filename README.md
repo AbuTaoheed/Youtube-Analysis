@@ -10,6 +10,10 @@ Real world analysis of Youtube data across 10 countries including the US
 - [Results and Findings](#results-and-findings)
 - [Exploratory Analysis](#exploratory-analysis)
 - [Data Analysis](#data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
 
 ## Project Overview
 Explore sample Youtube datasets from across 10 countries and perform the following anaysis to generate insights that answer a given set of goals
