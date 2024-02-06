@@ -95,8 +95,9 @@ plt.axis('off')
    - Words like 'Best', 'Awesome' and 'Great' were most positive words used while words such as 'Terrible', 'Worst' and 'Boring' were the most negative words used in the comments
 3. Emoji most used in the comments.
    - The following emojis were the top 3 used in comments 🤣 😆 😄
-4. Content categories has the most likes.
-6. Are audience engaged? (using regression and heatmap to find correlation between views and likes)
+4. Content categories with the most likes.
+   - The Music and Entertainment categories had the most likes followed by Sports and People\Lifestyle categories. The Trailers and Movies category had the least likes.
+5. Are audience engaged? (using regression and heatmap to find correlation between views and likes)
 7. Which channels have the most trending videos? (using simple frequency and groupby techniques)
    - Conclusion:
      - The top 5 channels with trending videos
